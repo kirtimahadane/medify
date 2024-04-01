@@ -1,0 +1,11 @@
+.medify-txt{
+color:var(--blue-light);
+font-weight: 500;
+font-size: 18px;
+}
+
+.booking-btn{
+    background-color: var(--blue-light);
+    color: var(--white-txt);
+    
+}

@@ -1,0 +1,14 @@
+.marquee{
+    background-color: var(--blue-light);
+   color:var(--white-txt);
+    font-size: 14px;
+    font-weight: 400;
+    height: 30px;
+    
+    padding-bottom:8px;
+}
+@media only screen and(max-width:400px){
+.marquee{
+    height: 40px;
+}
+}
